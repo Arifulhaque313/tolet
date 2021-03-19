@@ -1,0 +1,17 @@
+.login {
+    width: 700px;
+    margin: auto;
+    padding: 10px 100px 100px 100px;
+}
+.loginSection{
+    padding: 100px;
+}
+.btnContainer{
+    text-align: center;
+}
+#loginButton{
+    margin-right: 20px;
+}
+#register{
+    display: none;
+}
